@@ -1,0 +1,87 @@
+101 Indian Institute of Technology Bhubaneswar
+102 Indian Institute of Technology Bombay
+103 Indian Institute of Technology Mandi
+104 Indian Institute of Technology Delhi
+105 Indian Institute of Technology Indore
+106 Indian Institute of Technology Kharagpur
+107 Indian Institute of Technology Hyderabad
+108 Indian Institute of Technology Jodhpur
+109 Indian Institute of Technology Kanpur
+110 Indian Institute of Technology Madras
+111 Indian Institute of Technology Gandhinagar
+112 Indian Institute of Technology Patna
+113 Indian Institute of Technology Roorkee
+114 Indian School of Mines Dhanbad
+115 Indian Institute of Technology Ropar
+116 Indian Institute of Technology (BHU) Varanasi
+117 Indian Institute of Technology Guwahati
+120 Indian Institute of Technology Palakkad
+121 Indian Institute of Technology Tirupati
+201 Dr. B R Ambedkar National Institute of Technology, Jalandhar
+202 Malaviya National Institute of Technology Jaipur
+203 Maulana Azad National Institute of Technology Bhopal
+204 Motilal Nehru National Institute of Technology Allahabad
+205 National Institute of Technology Agartala
+206 National Institute of Technology Calicut
+207 National Institute of Technology Delhi
+208 National Institute of Technology Durgapur
+209 National Institute of Technology Goa
+210 National Institute of Technology Hamirpur
+211 National Institute of Technology Karnataka, Surathkal
+212 National Institute of Technology Meghalaya
+213 National Institute of Technology Nagaland
+214 National Institute of Technology Patna
+215 National Institute of Technology Puducherry
+216 National Institute of Technology Raipur
+217 National Institute of Technology Sikkim
+218 National Institute of Technology Arunachal Pradesh
+219 National Institute of Technology, Jamshedpur
+220 National Institute of Technology, Kurukshetra
+221 National Institute of Technology, Manipur
+222 National Institute of Technology, Mizoram
+223 National Institute of Technology, Rourkela
+224 National Institute of Technology, Silchar
+225 National Institute of Technology, Srinagar
+226 National Institute of Technology, Tiruchirappalli
+227 National Institute of Technology, Uttarakhand
+228 National Institute of Technology, Warangal
+229 Sardar Vallabhbhai National Institute of Technology, Surat
+230 Visvesvaraya National Institute of Technology, Nagpur
+231 National Institute of Technology, Andhra Pradesh
+232 National Institute of Technology, Warangal (AP Quota SN)
+301 Atal Bihari Vajpayee Indian Institute of Information Technology & Management Gwalior
+302 Indian Institute of Information Technology (IIIT)Kota, Rajasthan
+303 Indian Institute of Information Technology Guwahati
+304 Indian Institute of Information Technology(IIIT) Kalyani, West Bengal
+305 Indian Institute of Information Technology(IIIT) Kilohrad, Sonepat, Haryana
+306 Indian Institute of Information Technology(IIIT) Una, Himachal Pradesh
+307 Indian Institute of Information Technology(IIIT), Sri City, Chittoor District, Andra Pradesh
+308 Indian Institute of Information Technology(IIIT), Vadodara, Gujrat
+309 Indian Institute of Information Technology, Allahabad
+310 Indian Institute of Information Technology, Design& Manufacturing, Kancheepuram
+311 Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design & Manufacture,Jabalpur
+312 Rajiv Gandhi Institute of Information Technology Amethi (A Campus of IIIT Allahabad)
+313 Indian Institute of Information Technology Manipur
+314 Indian Institute of Information Technology Srirangam, Tiruchirappalli
+315 Indian Institute of Information Technology Lucknow
+316 Indian Institute of Information Technology(IIIT) Dharwad
+317 Indian Institute of Information Technology(IIIT) Kurnool
+318 Indian Institute of Information Technology(IIIT) Kottayam
+401 Assam University, Silchar
+402 Birla Institute of Technology, Mesra, Ranchi
+403 Gurukula Kangri Vishwavidyalaya, Haridwar
+404 Indian Institute of Carpet Technology, Bhadohi
+405 Institute of Infrastructure, Technology, Research and Management-Ahmedabad
+406 Institute of Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur
+407 J.K. Institute of Applied Physics & Technology, Department of Electronics & Communication,University of Allahabad- Allahabad
+408 National Institute of Electronics and Information Technology, Aurangabad (Maharashtra)
+409 National Institute of Foundry & Forge Technology, Hatia, Ranchi
+410 Sant Longowal Institute of Engineering and Technology
+411 School of Engineering & Technology, Mizoram University, Aizawl
+412 School of Engineering, Tezpur University, Napaam, Tezpur
+413 School of Planning & Architecture, Bhopal
+414 School of Planning & Architecture, New Delhi
+415 School of Planning & Architecture: Vijayawada
+416 Shri Mata Vaishno Devi University, Katra, Jammu & Kashmir
+417 Indian Institute of Engineering Science and Technology, Shibpur, District Howrah
+418 Indian Institute of Crop Processing Technology, Thanjavur, Tamilnadu

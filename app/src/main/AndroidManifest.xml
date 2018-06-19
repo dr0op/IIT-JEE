@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example2.admin.iit_jee">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/iitjeelogo"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".feedback"
+            android:label="Feedback" />
+        <activity
+            android:name=".devloper"
+            android:label="Developer" />
+        <activity
+            android:name=".collegePredictor"
+            android:label="COLLEGE PREDICTOR" />
+        <activity
+            android:name=".calculatorm"
+            android:label="JEE MAINS" />
+        <activity
+            android:name=".calculatorAdvance"
+            android:label="JEE ADVANCE" />
+        <activity android:name=".outputAdvance" />
+        <activity
+            android:name=".termsandcodition"
+            android:label="TERMS AND CONDITIONS" />
+        <activity android:name=".webview" />
+        <activity
+            android:name=".ImportantDates"
+            android:label="Important Dates:" />
+    </application>
+
+</manifest>

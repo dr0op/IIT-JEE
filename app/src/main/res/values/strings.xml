@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">"IIT-JEE "</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2240100499924798/6884894599</string>
+    <string name="banner_ad_unit_id2">ca-app-pub-2240100499924798/2109292593</string>
+    <string name="banner_ad_unit_id3">ca-app-pub-2240100499924798/7633082014</string>
+    <string name="banner_ad_unit_id4">ca-app-pub-2240100499924798/3857310928</string>
+    <string name="banner_ad_unit_id5">ca-app-pub-2240100499924798/2161085873</string>
+    <string name="interstitial_full_screen">ca-app-pub-2240100499924798/5994727947</string>
+
+</resources>

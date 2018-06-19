@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "489060777688",
+    "firebase_url": "https://iit-jee-college-predictor.firebaseio.com",
+    "project_id": "iit-jee-college-predictor",
+    "storage_bucket": "iit-jee-college-predictor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489060777688:android:4f58da942729e799",
+        "android_client_info": {
+          "package_name": "com.example2.admin.iit_jee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489060777688-rc7d2qrivq0m8qvp6s8o4901tkvq898f.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "489060777688-no2trt8r08tqpdmhoqmkqik5e0q6jpj8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX2N3Hjzfx8Qt3irASTXtEccl-9ehJNbc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

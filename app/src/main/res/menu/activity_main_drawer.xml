@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_calender"
+            android:icon="@drawable/calendar"
+            android:title="Important Dates" />
+        <item
+            android:id="@+id/nav_knowRank"
+            android:icon="@drawable/question"
+            android:title="Know your Rank" />
+        <item
+            android:id="@+id/nav_feedback"
+            android:icon="@drawable/feedback"
+            android:title="Feedback" />
+        <item
+            android:id="@+id/nav_rating"
+            android:icon="@drawable/rating"
+            android:title="Rate us" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+        </menu>
+    </item>
+    <item  android:title="Other links">
+        <menu>
+            <item
+                android:id="@+id/nav_jeeMain"
+                android:title="JEE MAINS"/>
+            <item
+                android:title="JoSAA"
+                android:id="@+id/nav_josaa"/>
+            <item
+                android:id="@+id/nav_jeeAdvance"
+                android:title="JEE ADVANCE"/>
+        </menu>
+    </item>
+    <item android:title="Developer">
+        <menu>
+            <item
+                android:id="@+id/nav_aboutUs"
+                android:icon="@drawable/about"
+                android:title="Terms and Condition"/>
+            <item
+                android:id="@+id/nav_devloper"
+                android:icon="@drawable/developer"
+                android:title="developer"/>
+        </menu>
+    </item>
+
+</menu>
